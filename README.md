@@ -9,5 +9,8 @@ click the link below to see
 # updates
 
 - able to type text
-- able to draw shapes 
+- able to draw shapes
+
+
+  
 [Live-DEMO](https://paint-nu.vercel.app/)
