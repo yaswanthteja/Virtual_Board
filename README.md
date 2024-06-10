@@ -6,7 +6,7 @@ Virtual board is a simple program that allows users to draw, and create basic gr
 click the link below to see
 
 
-# updates
+# up comming updates
 
 - able to type text
 - able to draw shapes
