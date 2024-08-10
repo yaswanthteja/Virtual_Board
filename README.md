@@ -25,3 +25,10 @@ click the link below to see
 
   
 [Live-DEMO](https://paint-nu.vercel.app/)
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg">
+</p>
+
+
