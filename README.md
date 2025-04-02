@@ -24,7 +24,7 @@ click the link below to see
 
 
   
-[Live-DEMO](https://virtualboard-nu.vercel.app/)
+[Live DEMO](https://virtualboard-nu.vercel.app/)
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
